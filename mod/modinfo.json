@@ -1,11 +1,11 @@
 {
-	"id": "example",
-	"name": "Example mod",
+	"id": "notreallyagamer",
+	"name": "Not Really A Gamer",
 	"version": "1.0.0",
 	"hide_version": false,
-	"authors": "Coding:\nExample Person\nExample Person 2",
-	"description": "Example Remix mod.",
-	"requirements": [],
+	"authors": "Coder23848",
+	"description": "Removes a certain sound effect that can be annoying as a certain slugcat. Good for people with no sense of humor.",
+	"requirements": ["moreslugcats"],
 	"requirements_names": [],
 	"checksum_override_version": false
 }
