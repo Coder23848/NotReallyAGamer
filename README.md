@@ -1,5 +1,6 @@
 # NotReallyAGamer
 Removes a certain sound effect that some people might find annoying.
+Available on the Steam Workshop.
 
 **SPOILERS BELOW**
 
@@ -99,4 +100,4 @@ Removes a certain sound effect that some people might find annoying.
 
 |
 
-Specifically, the joke voice lines that play when you take damage or die as the slugcat without a name.
+Specifically, this mod removes the joke "gamer" voice lines that play when you take damage or die as the slugcat without a name.
